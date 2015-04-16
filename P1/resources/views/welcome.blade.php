@@ -37,7 +37,7 @@
 						<span class="icon-bar"></span>
 					</button>
 					<h1 class="logo">
-						<a href="index.html" title="Home"><span class="sprite icon"></span> <strong>Madeny</strong></a>
+						<a href="index.html" title="Home"><span class="sprite icon"></span> <strong>Trusatu</strong></a>
 					</h1>
 				</div>
 
@@ -68,14 +68,14 @@
 						<li><a href="pricing.html" title="Pricing">Service</a></li>
 						<li><a href="blog.html" title="Blog">Blog</a></li>
 						<li><a href="contact.html" title="Contact">Contact</a></li>
-						<li class="login"><a href="login.html" title="Login"><i class="icon fa fa-lock"></i> Login</a></li>
+						<li class="login"><a href="login.html" title="Login"><i class="icon fa fa-lock"></i> connexion</a></li>
 					</ul>
 				</nav>
 			</div>
 			
 			<div class="text-center wrap">
-				<h2>Un petit coucou pour <strong>Mangoundo</strong> </h2>
-				<h3>Fast &amp; robust template for your online services</h3>
+				<h2>Tuto facile <strong>Trusatu</strong> </h2>
+				<h3> Par groupe tai 2014 - 2015</h3>
 				
 				<!-- Form -->
 				<div class="row">
@@ -86,7 +86,7 @@
 									<div class="input">
 										<input type="email" class="form-control input-field">
 										<label class="input-label">
-											<span class="input-label-content">Email Address</span>
+											<span class="input-label-content">Adresse email</span>
 										</label>
 									</div>
 								</div>
@@ -94,12 +94,12 @@
 									<div class="input">
 										<input type="password" class="form-control input-field">
 										<label class="input-label">
-											<span class="input-label-content">Password</span>
+											<span class="input-label-content">Mot de passse</span>
 										</label>
 									</div>
 								</div>
 								<div class="col-xs-12 col-sm-4 i">
-									<button type="submit" class="btn btn-lg btn-yellow btn-effect">Create my account</button>
+									<button type="submit" class="btn btn-lg btn-yellow btn-effect">Creer un compte</button>
 								</div>
 							</div>
 						</form>
