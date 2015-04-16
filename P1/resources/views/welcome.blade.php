@@ -37,7 +37,7 @@
 						<span class="icon-bar"></span>
 					</button>
 					<h1 class="logo">
-						<a href="index.html" title="Home"><span class="sprite icon"></span> <strong>Madeny</strong></a>
+						<a href="index.html" title="Home"><span class="sprite icon"></span> <strong>Trusatu</strong></a>
 					</h1>
 				</div>
 
@@ -74,8 +74,8 @@
 			</div>
 			
 			<div class="text-center wrap">
-				<h2>Un petit coucou pour <strong>Mangoundo</strong> </h2>
-				<h3>Fast &amp; robust template for your online services</h3>
+				<h2>Tuto facile<strong>Trusatu</strong> </h2>
+				<h3>Group tai greta 2014 - 2015</h3>
 				
 				<!-- Form -->
 				<div class="row">
@@ -365,7 +365,7 @@
 	<div class="section businessTheme">
 		<div class="container text-center">
 			<h2>Do you need beautiful business theme?</h2>
-			<a href="#" title="#" class="btn btn-lg btn-yellow btn-effect">Purchase CloudArena <span>$15 only</span></a>
+			<a href="#" title="#" class="btn btn-lg btn-yellow btn-effect">Abonné vous  <span>Seulement 15€</span></a>
 		</div>
 	</div>
 
