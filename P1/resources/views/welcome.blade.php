@@ -118,7 +118,7 @@
 					<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
 						<h2> Avec trusatu <strong> 2,500 de personne nous as fait confience</strong></h2>
 						<p>
-							This template CloudArena was designed to fit your digital product as a presentation site. You can use it in <b>various</b> ways, with different icons and colors. It is ready to navigate users to <b>sign up</b> to your service or product.
+							Trusatu was designed to fit your digital product as a presentation site. You can use it in <b>various</b> ways, with different icons and colors. It is ready to navigate users to <b>sign up</b> to your service or product.
 						</p>
 					</div>
 				</div>
