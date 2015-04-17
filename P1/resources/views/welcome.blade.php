@@ -46,16 +46,16 @@
 						<li class="active sub">
 							<a href="#" title="Home">lesson</a>
 							<ul>
-								<li><a href="index.html" title="Gradient">Gradient</a></li>
-								<li><a href="index-color.html" title="Single color">Single color</a></li>
-								<li><a href="index-video.html" title="Video">Video</a></li>
-								<li><a href="index-image.html" title="Image" class="active">Image</a></li>
-								<li><a href="index-cols.html" title="Two columns">Two columns</a></li>
-								<li><a href="index-full-gradient.html" title="Fullscreen gradient">Fullscreen gradient</a></li>
-								<li><a href="index-full-color.html" title="Fullscreen single color">Fullscreen single color</a></li>
-								<li><a href="index-full-video.html" title="Fullscreen video">Fullscreen video</a></li>
-								<li><a href="index-full-image.html" title="Fullscreen image">Fullscreen image</a></li>
-								<li><a href="index-full-cols.html" title="Fullscreen two columns">Fullscreen two columns</a></li>
+								<li><a href="index.html" title="Gradient">Laravel</a></li>
+								<li><a href="index-color.html" title="Single color">Symfony</a></li>
+								<li><a href="index-video.html" title="Video">Wordpress</a></li>
+								<li><a href="index-image.html" title="Image" class="active">Joomla</a></li>
+								<li><a href="index-cols.html" title="Two columns">Windows</a></li>
+								<li><a href="index-full-gradient.html" title="Fullscreen gradient">Linux</a></li>
+								<li><a href="index-full-color.html" title="Fullscreen single color">PHP</a></li>
+								<li><a href="index-full-video.html" title="Fullscreen video">Html</a></li>
+								<li><a href="index-full-image.html" title="Fullscreen image">Javascript</a></li>
+								<li><a href="index-full-cols.html" title="Fullscreen two columns">Css</a></li>
 							</ul>
 						</li>
 						<li class="sub">
@@ -420,8 +420,8 @@
 		<div class="copyright">
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-6 i">Copyright © 2015 <a href="http://arena.tomaj.sk/" title="CloudArena">CloudArena</a></div>
-					<div class="col-xs-6 i">Web Design: <a href="http://www.jurajmolnar.com/" title="Juraj Molnar" target="_blank">Juraj Molnár</a></div>
+					<div class="col-xs-6 i">Copyright © 2015 <a href="http://arena.tomaj.sk/" title="CloudArena">Trusatu</a></div>
+					<div class="col-xs-6 i">Web Design: <a href="http://www.jurajmolnar.com/" title="Juraj Molnar" target="_blank">Madeny</a></div>
 				</div>
 			</div>
 		</div>
