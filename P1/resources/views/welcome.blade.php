@@ -123,28 +123,7 @@
 					</div>
 				</div>
 			</header>
-			<div class="row text-center">
-				<div class="col-sm-4 i">
-					<span class="sprite icon icon-responsive"></span>
-					<h3>
-						<a href="#" title="#">Fully Responsive</a>
-					</h3>
-					<p>All pages from this template are fully responsive. You can use it on any device.</p>
-				</div>
-				<div class="col-sm-4 i">
-					<span class="sprite icon icon-technologies"></span>
-					<h3>
-						<a href="#" title="#">Latest Technologies</a>
-					</h3>
-					<p>Based on latest version of <b>Bootstrap</b> framework - 3.3</p>
-				</div>
-				<div class="col-sm-4 i">
-					<span class="sprite icon icon-animations"></span>
-					<h3>
-						<a href="#" title="#">Amazing Icons</a>
-					</h3>
-					<p>Template contains big set of icons that can be used with this theme or in your connected application</p>
-				</div>
+		
 			</div>
 		</div>
 	</section>
@@ -162,38 +141,7 @@
 			</header>
 			
 			<div class="row">
-				<div class="col-lg-10 col-lg-offset-1">
-					<div class="row js-screens-filter">
-						<div class="col-sm-15 i">
-							<a href="#tab-about-us" aria-controls="tab-about-us" role="tab" data-toggle="tab">
-								<span class="sprite icon icon-about"></span>
-							</a>
-							<a href="#tab-about-us" aria-controls="tab-about-us" role="tab" data-toggle="tab" class="hoverExtend active">About us</a>
-						</div>
-						<div class="col-sm-15 i">
-							<a href="#tab-pricing-tables" aria-controls="tab-pricing-tables" role="tab" data-toggle="tab">
-								<span class="sprite icon icon-pricing-tables"></span>
-							</a>
-							<a href="#tab-pricing-tables" aria-controls="tab-pricing-tables" role="tab" data-toggle="tab" class="hoverExtend">Pricing tables</a>
-						</div>
-						<div class="col-sm-15 i">
-							<a href="#tab-blog-page" aria-controls="tab-blog-page" role="tab" data-toggle="tab">
-								<span class="sprite icon icon-blog"></span>
-							</a>
-							<a href="#tab-blog-page" aria-controls="tab-blog-page" role="tab" data-toggle="tab" class="hoverExtend">Blog page</a>
-						</div>
-						<div class="col-sm-15 i">
-							<a href="#tab-contact" aria-controls="tab-contact" role="tab" data-toggle="tab">
-								<span class="sprite icon icon-contact"></span>
-							</a>
-							<a href="#tab-contact" aria-controls="tab-contact" role="tab" data-toggle="tab" class="hoverExtend">Contact</a>
-						</div>
-						<div class="col-sm-15 i">
-							<a href="#tab-login" aria-controls="tab-login" role="tab" data-toggle="tab">
-								<span class="sprite icon icon-login"></span>
-							</a>
-							<a href="#tab-login" aria-controls="tab-login" role="tab" data-toggle="tab" class="hoverExtend">Login</a>
-						</div>
+			
 					</div>
 					
 					<div class="tab-content notebook">
@@ -233,81 +181,10 @@
 				</div>
 			</header>
 
-			<div class="row">
-				<!-- User testimonials -->
-				<div class="col-xs-12 col-sm-7 userTestimonials">
-					<div class="js-testimonials-carousel">
-						<div class="item">
-							<div class="col-xs-10 col-xs-offset-1">
-								<img src="tmp/80x80.jpg" alt="#" width="80" height="80" class="image">
-								<h3>George Doe</h3>
-								<h4>– Blackhorse owner –</h4>
-								<p>Publishing your users stories abount your product can be usefull for your next clients. You can describe how your clients use your product to increase theirs busssinesses. Tempalte is ready to display information from your social media sites.
-								</p>
-							</div>
-						</div>
-						<div class="item">
-							<div class="col-xs-10 col-xs-offset-1">
-								<img src="tmp/80x80.jpg" alt="#" width="80" height="80" class="image">
-								<h3>Nick Doe</h3>
-								<h4>– Digiapple owner –</h4>
-								<p>Publishing your users stories abount your product can be usefull for your next clients. You can describe how your clients use your product to increase theirs busssinesses. Tempalte is ready to display information from your social media sites.</p>
-							</div>
-						</div>
-						<div class="item">
-							<div class="col-xs-10 col-xs-offset-1">
-								<img src="tmp/80x80.jpg" alt="#" width="80" height="80" class="image">
-								<h3>Andrew Doe</h3>
-								<h4>– T-crowd owner –</h4>
-								<p>Publishing your users stories abount your product can be usefull for your next clients. You can describe how your clients use your product to increase theirs busssinesses. Tempalte is ready to display information from your social media sites.</p>
-							</div>
-						</div>
-					</div>
-				</div>
-
+		
 				<!-- Twitter -->
 				<div class="col-xs-12 col-sm-4 col-sm-offset-1 tweets js-tweets">
-					<div class="item">
-						<div class="i">
-							<p>Amazing <span class="green"><strong>@acusammus</strong></span> theme lorem ipsum dolores! <span class="green"><strong>@CloudArena</strong></span> theme is great theme</p>
-							<span class="time">Posted 13 hours ago</span>
-						</div>
-						<div class="i">
-							<p>Cheers <span class="green"><strong>@jura_mol</strong></span> it's exciting to see people getting the most out of it!</p>
-							<span class="time">Posted 22 hours ago</span>
-						</div>
-						<div class="i">
-							<p>TOP <span class="green"><strong>@molnar</strong></span>: Making a new <span class="green"><strong>@CloudArena</strong></span> theme? <span class="green"><strong>@wrapbootstrap</strong></span> and lorem ipsum.</p>
-							<span class="time">Posted 1 day ago</span>
-						</div>
-					</div>
-					<div class="item">
-						<div class="i">
-							<p>Amazing <span class="green"><strong>@acusammus</strong></span> theme lorem ipsum dolores! <span class="green"><strong>@CloudArena</strong></span> theme is great theme</p>
-							<span class="time">Posted 13 hours ago</span>
-						</div>
-						<div class="i">
-							<p>Cheers <span class="green"><strong>@jura_mol</strong></span> it's exciting to see people getting the most out of it!</p>
-							<span class="time">Posted 22 hours ago</span>
-						</div>
-						<div class="i">
-							<p>TOP <span class="green"><strong>@molnar</strong></span>: Making a new <span class="green"><strong>@CloudArena</strong></span> theme? <span class="green"><strong>@wrapbootstrap</strong></span> and lorem ipsum.</p>
-							<span class="time">Posted 1 day ago</span>
-						</div>
-					</div>
-					<div class="item">
-						<div class="i">
-							<p>Amazing <span class="green"><strong>@acusammus</strong></span> theme lorem ipsum dolores! <span class="green"><strong>@CloudArena</strong></span> theme is great theme</p>
-							<span class="time">Posted 13 hours ago</span>
-						</div>
-						<div class="i">
-							<p>Cheers <span class="green"><strong>@jura_mol</strong></span> it's exciting to see people getting the most out of it!</p>
-							<span class="time">Posted 22 hours ago</span>
-						</div>
-						<div class="i">
-							<p>TOP <span class="green"><strong>@molnar</strong></span>: Making a new <span class="green"><strong>@CloudArena</strong></span> theme? <span class="green"><strong>@wrapbootstrap</strong></span> and lorem ipsum.</p>
-							<span class="time">Posted 1 day ago</span>
-						</div>
+				
 					</div>
 				</div>
 			</div>
@@ -315,51 +192,7 @@
 	</div>
 
 	<!-- Clients -->
-	<section class="section clients">
-		<div class="container">
-			<header class="text-center">
-				<div class="row">
-					<div class="col-xs-12 col-sm-10 col-sm-offset-1 col-lg-8 col-lg-offset-2">
-						<h2>Clients</h2>
-						<p>Decent listing with your clients. Fully customizable and ready to use in any subpages as you want. Responsive for any numbers of clients in this section.</p>
-					</div>
-				</div>
-			</header>
 
-			<div class="row">
-				<div class="col-xs-4 col-md-2 i">
-					<a href="#" title="#">
-						<img src="tmp/clients/digiapple.png" alt="#" width="69" height="102" class="img-responsive">
-					</a>
-				</div>
-				<div class="col-xs-4 col-md-2 i">
-					<a href="#" title="#">
-						<img src="tmp/clients/backhorse-digital.png" alt="#" width="106" height="119">
-					</a>
-				</div>
-				<div class="col-xs-4 col-md-2 i">
-					<a href="#" title="#">
-						<img src="tmp/clients/veagle-technologies.png" alt="#" width="117" height="106">
-					</a>
-				</div>
-				<div class="col-xs-4 col-md-2 i">
-					<a href="#" title="#">
-						<img src="tmp/clients/coffetwist.png" alt="#" width="77" height="106">
-					</a>
-				</div>
-				<div class="col-xs-4 col-md-2 i">
-					<a href="#" title="#">
-						<img src="tmp/clients/diagonal.png" alt="#" width="128" height="87">
-					</a>
-				</div>
-				<div class="col-xs-4 col-md-2 i">
-					<a href="#" title="#">
-						<img src="tmp/clients/t-crowd.png" alt="#" width="75" height="103">
-					</a>
-				</div>
-			</div>
-		</div>
-	</section>
 
 	<!-- Business theme -->
 	<div class="section businessTheme">
